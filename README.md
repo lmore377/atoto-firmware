@@ -26,3 +26,4 @@ Method 2 (Requires that the illumination wire is connected and working. Read com
 
 Troubleshooting:
 1. If the screen stays completely blank, try a different USB drive or SD card. You'll probably go through a lot before you find one that works.
+2. If your illumination wire isn't hooked up, touching the wire to 12 volts will have the same effect as turning on the headlights. ***Be very careful if you do this. You can fry the radio or something in your vehicle if something goes wrong.***
