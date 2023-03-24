@@ -10,9 +10,10 @@ Some files are split across multiple zip files to get around GitHubs max file si
 There's 2 different procedures that work for 99% of radios
 
 Prerequisites:  
-1. For 
-2. Make sure the file is named ISPBOOOT.BIN exactly then put on a FAT32 formatted flash drive or SD card. The smaller the better.  
-3. Completely eject the drive from your computer before unplugging it.  
+1. Get a USB drive or an SD card that you don't mind formatting. The smaller the better.
+2. [Convert your drive from GPT to MBR](https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-a-gpt-disk-into-an-mbr-disk) then make a new partition formatted as FAT32
+3. Make sure the firmware file is named exactly ISPBOOOT.BIN and copy it to your drive.
+4. Completely eject the drive from your computer before unplugging it.  
 
 Method 1:
 1. Plug the flash drive or SD card into the front of the radio and turn it on.
